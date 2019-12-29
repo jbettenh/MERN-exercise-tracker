@@ -14,7 +14,7 @@ export default class CreateUser extends Component {
 
   onChangeUsername(e) {
     this.setState({
-      username: e.tartget.value
+      username: e.target.value
     })
   }
 
@@ -36,22 +36,22 @@ export default class CreateUser extends Component {
   render() {
     return (
       <div>
-        <h3>Create New User</h3>
-        <form onSubmit={this.onSubmit}>
-          <div className="form-group">
-            <label>Username: </label>
-            <input type="text"
+      <h3>Create New User</h3>
+      <form onSubmit={this.onSubmit}>
+        <div className="form-group">
+          <label>Username: </label>
+          <input  type="text"
               required
               className="form-control"
               value={this.state.username}
               onChange={this.onChangeUsername}
               />
-          </div>
-          <div className="form-group">
-            <input typ="submit" value="Create User" className="btn btn-primary" />
-          </div>
-        </form>
-      </div>
+        </div>
+        <div className="form-group">
+          <input type="submit" value="Create User" className="btn btn-primary" />
+        </div>
+      </form>
+    </div>
     )
   }
 }
