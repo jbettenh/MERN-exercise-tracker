@@ -1,4 +1,8 @@
-Code for MERN tutorial.
+I followed this tutorial from Free Code Camp. https://www.freecodecamp.org/
+
+Learn the MERN stack by building an exercise tracker application in this complete tutorial course. You will learn the basics of MongoDB, Express, React, Node.js, and Mongoose. 
+
+Tutorial developed by Beau Carnes.
 
 Video for Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
 
