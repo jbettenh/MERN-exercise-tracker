@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 export default class ExercisesList extends Component {
-  // Most basic component you can have
+  // Most basic React component you can have. 
   render() {
     return (
       <div>
