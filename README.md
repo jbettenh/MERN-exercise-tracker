@@ -1,8 +1,8 @@
 Code for MERN tutorial.
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+Video for Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
 
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+Article for Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
 
 Code Tutorial: https://github.com/beaucarnes/mern-exercise-tracker-mongodb
 
