@@ -64,6 +64,12 @@ echo "\n"
 install_fe() {
 echo "================================================="
 echo "  Deploying Frontend package.........."
+
+# Make sure the frontend development web server is running. If it’s not, you can start it with the following command in a terminal:
+# npm start
+# npm install react-router-dom
+# npm install react-datepicker
+# npm install axios
 }
 
 main
