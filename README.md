@@ -11,3 +11,10 @@ Article for Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-bui
 Code for Tutorial: https://github.com/beaucarnes/mern-exercise-tracker-mongodb
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Starting backend 
+nodemon server
+
+Starting frontend
+npm start
